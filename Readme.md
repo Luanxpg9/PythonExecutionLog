@@ -13,4 +13,4 @@ Create a reference sheet on how to use logging and subprocess library with pytho
 ```bash
 $ py openFile.py *your python filename here*.py
 ```
-3. If the project executes correct, you should get a log file on the execution path
+3. If the project executes correct You should get a log file on the execution path
